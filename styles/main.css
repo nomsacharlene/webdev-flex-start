@@ -6,3 +6,25 @@ body{
 h1, h2{
     font-family: 'Raleway', sans-serif;
 }
+.container{
+    width:100%;	
+    margin:auto;
+    max-width: 1200px;
+    min-width: 600px;
+}
+nav ul{
+    padding-left:0;
+    list-style:none;	
+}
+header{
+    background-color: #263248;	
+    border-radius: 8px;
+}
+nav li a{
+    text-decoration: none;	
+    color: #fff;	
+}
+nav li a:hover{
+    color: #7E8AA2;	
+}
+
